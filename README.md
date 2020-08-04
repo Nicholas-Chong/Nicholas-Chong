@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Nicholas!
+
+📍 Ontario, Canada
+🏫 uwo
+
+I am currently a student at the University of Western Ontario, studying Computer Science and Economics. Some of my interest include software development, photography, investing, basketball, and Formula One 🏎 
+
+My lastest project is a COVID-19 Twitter Bot and Dashboard. Check it out [here](https://github.com/Nicholas-Chong/COVID-19-Twitter-Bot-and-Dashboard)
 
 <!--
 **Nicholas-Chong/Nicholas-Chong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
