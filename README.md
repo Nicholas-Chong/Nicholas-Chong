@@ -6,6 +6,8 @@ I am currently a student at the University of Western Ontario, studying Computer
 
 My lastest project is a COVID-19 Twitter Bot and Dashboard. Check it out [here](https://github.com/Nicholas-Chong/COVID-19-Twitter-Bot-and-Dashboard).
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 <!--
 **Nicholas-Chong/Nicholas-Chong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
