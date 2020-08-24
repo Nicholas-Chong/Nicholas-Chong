@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Nicholas!
 
-📍 Ontario, Canada | 🏫 uwo 
+📍 Toronto, Canada | 🏫 uwo 
 
 I am currently a student at the University of Western Ontario, studying Computer Science and Economics. Some of my interests include software development, photography, investing, basketball, and Formula One 🏎 
 
