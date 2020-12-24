@@ -7,6 +7,7 @@ I am currently a student at Western University, studying Computer Science and Ec
 My lastest project is a COVID-19 Twitter Bot and Dashboard. Check it out [here](https://github.com/Nicholas-Chong/COVID-19-Twitter-Bot-and-Dashboard).
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nicholas-chong-/)
+
 :rocket: [Personal Website](https://nicholas-chong.github.io)
 
 <!--
