@@ -10,7 +10,7 @@ My lastest project is a COVID-19 Twitter Bot and Dashboard. Check it out [here](
 
 :rocket: [Personal Website](https://nicholas-chong.github.io)
 
-[](https://github-readme-stats.vercel.app/api?username=nicholas-chong&count_private=true&include_all_commits=true&cache_seconds=1800&show_icons=true&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nicholas-chong&count_private=true&include_all_commits=true&cache_seconds=1800&show_icons=true&theme=tokyonight)
 
 <!--
 **Nicholas-Chong/Nicholas-Chong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
