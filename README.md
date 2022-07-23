@@ -1,14 +1,12 @@
 ### Hi there 👋 I'm Nicholas!
 
-Toronto, Canada | Western University
+Toronto, Canada | CS + HBA Student @ Western University
 
-I am currently a student at Western University, studying Computer Science. Some of my interests include software development, photography, investing, basketball, and Formula One 🏎 
+I am currently a student at Western University, studying Computer Science and Business. Some of my interests include software development, photography, investing, basketball, and Formula One 🏎 
 
 My lastest project is a COVID-19 Twitter Bot and Dashboard. Check it out [here](https://github.com/Nicholas-Chong/COVID-19-Twitter-Bot-and-Dashboard).
 
 :open_file_folder: [LinkedIn](https://www.linkedin.com/in/nicholas-chong-/)
-
-:rocket: [Personal Website](https://nicholas-chong.github.io)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nicholas-chong&count_private=true&include_all_commits=true&cache_seconds=1800&show_icons=true&theme=tokyonight)
 
