@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Nicholas!
 
-I am currently a student at Western University, studying Computer Science and Business. Some of my interests include software development, photography, investing, basketball, and Formula One 🏎 
+I am currently a student at Western University, studying Computer Science and Business. Some of my interests include software engineering, photography, investing, basketball, and Formula One 🏎 
 
 My lastest project is a COVID-19 Twitter Bot and Dashboard. Check it out [here](https://github.com/Nicholas-Chong/COVID-19-Twitter-Bot-and-Dashboard).
 
